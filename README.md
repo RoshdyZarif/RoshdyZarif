@@ -21,10 +21,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/electronics.png" width="40" title="ESP32"/>
 </p>
-
 ### Frameworks & Tools  
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosquitto_logo.png" width="40" title="MQTT"/>
+  <img src="https://www.vectorlogo.zone/logos/mqtt/mqtt-ar21.svg" width="80" title="MQTT"/>
   <img src="https://avatars.githubusercontent.com/u/45104886?s=200&v=4" width="40" title="Blynk"/>
 </p>
 
