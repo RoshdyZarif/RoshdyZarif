@@ -19,7 +19,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" title="Raspberry Pi"/>
-  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" width="40" title="ESP32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Espressif_logo.svg" width="80" title="ESP32"/>
 </p>
 
 ### Frameworks & Tools  
