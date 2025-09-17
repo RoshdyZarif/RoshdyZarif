@@ -18,9 +18,10 @@
 ### IoT & Embedded  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/electronics.png" width="40" title="ESP32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" width="40" title="ESP32"/>
 </p>
+
 ### Frameworks & Tools  
 <p>
   <img src="https://www.vectorlogo.zone/logos/mqtt/mqtt-ar21.svg" width="80" title="MQTT"/>
@@ -37,11 +38,11 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 - 🌱 **Smart Irrigation System** – ESP32, ML model with FastAPI, mobile app with Flutter  
 - 📊 **Real-time Data Visualization** – Python, Matplotlib, MQTT  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshdyzarif)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshdyzarif/)  
