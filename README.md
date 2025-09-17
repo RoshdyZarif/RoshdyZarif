@@ -1,4 +1,4 @@
-# Hi, I'm Roshdy Zarif👋  
+# Hi, I'm Roshdy Zarif 👋  
 
 💻 **Computer Science Graduate | Embedded Systems & IoT Enthusiast**  
 🌱 Currently learning: IoT, Embedded Systems, and Cloud Integration  
