@@ -24,7 +24,7 @@
 
 ### Frameworks & Tools  
 <p>
-  <img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" width="40" title="MQTT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mosquitto_logo.png" width="40" title="MQTT"/>
   <img src="https://avatars.githubusercontent.com/u/45104886?s=200&v=4" width="40" title="Blynk"/>
 </p>
 
