@@ -1,4 +1,4 @@
-# Hi there, I'm Roshdy 👋  
+# Hi, I'm Roshdy Zarif👋  
 
 💻 **Computer Science Graduate | Embedded Systems & IoT Enthusiast**  
 🌱 Currently learning: IoT, Embedded Systems, and Cloud Integration  
@@ -40,7 +40,7 @@
 ---
 
 ## 📌 Featured Projects  
-- 🌱 **Smart Irrigation System** – ESP32, ML model with FastAPI, mobile app with Flutter  
+- 🌱 **Smart Irrigation System** – ESP32, ML Model With FastAPI, Mobile App With Flutter  
 - 📊 **Real-time Data Visualization** – Python, Matplotlib, MQTT  
 
 ---
