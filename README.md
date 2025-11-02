@@ -37,11 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
 </p>
 
----
-
-## 📌 Featured Projects  
-- 🌱 **Smart Irrigation System** – ESP32, ML Model With FastAPI, Mobile App With Flutter  
-- 📊 **Real-time Data Visualization** – Python, Matplotlib, MQTT  
 
 ---
 
